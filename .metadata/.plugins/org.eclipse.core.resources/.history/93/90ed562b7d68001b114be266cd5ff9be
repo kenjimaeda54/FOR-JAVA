@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Auction {
+
+	public static void main(String[] args) {
+	    Scanner sc = new Scanner(System.in);
+	    int x,multiplica;
+	    System.out.println("Digite um valor inteiro para calcular fatorial");
+	    x = sc.nextInt();
+	    multiplica =0;
+	    for(int count=x;count > 0;count--) {
+	    multiplica = count*(count-1);
+	     }
+	  
+	    System.out.println(+multiplica);		
+	   sc.close(); 		
+	    
+	}
+
+}

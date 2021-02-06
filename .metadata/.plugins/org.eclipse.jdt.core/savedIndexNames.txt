@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/erika/Eclipse/for/.metadata/.plugins/org.eclipse.jdt.core
+3152933518.index
+646308851.index
